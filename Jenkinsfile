@@ -62,7 +62,7 @@ def getTerraformPath(){
     def tfHome = tool name: 'terraform:1.4.6', type: 'terraform'
     return tfHome
 }
-Collapse
+
 
 
 
